@@ -1,0 +1,20 @@
+# Environments
+venv/
+env/
+.env
+
+# Data (Too large for GitHub, others should download from Kaggle)
+data/
+
+# Archived files
+archive/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
